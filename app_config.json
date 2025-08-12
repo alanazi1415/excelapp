@@ -1,6 +1,7 @@
 {
   "enabled": true,
-  "min_version": "1.0.0",
+  "min_version": "1.1.0",
   "message": "تم إيقاف التطبيق مؤقتًا للصيانة.",
   "sig": "fnAC5KUTUBqdRpN12C8h4pPeRqfFYjvCdKncMBM0j4c="
+
 }
